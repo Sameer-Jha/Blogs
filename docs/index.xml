@@ -6,9 +6,27 @@
     <description>Recent content on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jul 2020 16:32:29 +0530</lastBuildDate>
     
 	<atom:link href="https://Sameer-Jha.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome_Post</title>
+      <link>https://Sameer-Jha.github.io/blogs/posts/welcome_post/</link>
+      <pubDate>Sun, 19 Jul 2020 16:32:29 +0530</pubDate>
+      
+      <guid>https://Sameer-Jha.github.io/blogs/posts/welcome_post/</guid>
+      <description>Welcome Readers Welcome to my blog site. I&amp;rsquo;m Sameer, a Computer Science Engineering undergraduate from India and have a keen interest in
+   Bleeding Edge Technologies and Research
+  Cybersecurity and Ethical Hacking
+  PC &amp;amp; Smartphones
+  Programming &amp;amp; Linux
+  Music &amp;amp; Video Production
+  3D Animation and Modelling
+  Photography &amp;amp; Graphic Design
+  Gaming and Game Dev</description>
+    </item>
     
   </channel>
 </rss>
