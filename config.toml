@@ -1,5 +1,0 @@
-baseURL = "https://Sameer-Jha.github.io/blogs/"
-languageCode = "en-us"
-title = "Sam's Blog"
-theme = "cupper-hugo-theme"
-publishDir = "docs"
